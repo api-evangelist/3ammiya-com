@@ -66,7 +66,7 @@
 
 3ammiya is an online Egyptian Arabic dictionary and slang platform that crowdsources word meanings, expressions, and colloquial phrases. Users can submit new words, browse trending and latest entries, and explore definitions in both Arabic and English. The site offers social media integration, community contributions, and a searchable database of everyday language used across Egypt.
 
-**Areas:** Dictionary · Language · Arabic · Slang · Community · Education
+**Areas:** Dictionaries · Language · Arabic · Slang · Community · Education
 
 ## 3ammiya on APIs.io
 
@@ -80,26 +80,26 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [3Ammiya Com Authentication](https://apis.io/security/3ammiya-com/3ammiya-com-authentication/)
-- [3Ammiya Com Domain Security](https://apis.io/security/3ammiya-com/3ammiya-com-domain-security/)
+- [3ammiya Authentication](https://apis.io/security/3ammiya-com/3ammiya-com-authentication/)
+- [3ammiya Domain Security](https://apis.io/security/3ammiya-com/3ammiya-com-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [3Ammiya Com Scopes](https://apis.io/scopes/3ammiya-com/3ammiya-com-scopes/)
+- [3ammiya Scopes](https://apis.io/scopes/3ammiya-com/3ammiya-com-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [3Ammiya Com Plans Pricing](https://apis.io/plans/3ammiya-com/3ammiya-com-plans-pricing/)
+- [3ammiya Plans Pricing](https://apis.io/plans/3ammiya-com/3ammiya-com-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [3Ammiya Com Rate Limits](https://apis.io/rate-limits/3ammiya-com/3ammiya-com-rate-limits/)
+- [3ammiya Rate Limits](https://apis.io/rate-limits/3ammiya-com/3ammiya-com-rate-limits/)
 
 ## Where to find this API
 
@@ -115,7 +115,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 17.7** — emerging · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 18.0** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
@@ -124,16 +124,16 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 26.2 |
-| Access clarity | 34.2 |
+| Access clarity | 40.4 |
 
-**Agent readiness 5.6** — agent-aware
+**Agent readiness 2.5** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -151,8 +151,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 23.5** — Education & Research
+**Regulatory alignment 17.6** — Education & Research
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/3ammiya-com/](https://apis.io/providers/3ammiya-com/).
 
